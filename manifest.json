@@ -1,7 +1,7 @@
 {
-	"id": "prompt-mixer-preplexite-connector",
+	"id": "prompt-mixer-perplexity-connector",
 	"name": "Preplexite Prompt Mixer Connector",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"minAppVersion": "0.1.0",
 	"description": "This connector allows you to access Preplexite's AI API from within Prompt Mixer.",
 	"author": "Prompt Mixer",

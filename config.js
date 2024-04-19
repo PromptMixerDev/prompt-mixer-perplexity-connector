@@ -7,6 +7,9 @@ export const config = {
 		'sonar-medium-online',
 		'mistral-7b-instruct',
 		'mixtral-8x7b-instruct',
+		'codellama-70b-instruct',
+		'llama-3-70b-instruct',
+		'llama-3-8b-instruct',
 	],
 	properties: [
 		{
